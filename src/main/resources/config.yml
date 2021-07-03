@@ -1,0 +1,12 @@
+particle: END_ROD
+max-arrow-tick-live: 700
+bow-name: '&bTeleport &fBow'
+bow-lore:
+  - '&6Shoot teleporting Arrow.'
+  - '&8You may still take fall damage!'
+bow-enchantments:
+  - 'infinity:1'
+player-get-bow-message:
+  - '&bYou received a &bTeleport &fBow!'
+sender-give-bow-message:
+  - '&bYou gave a &bTeleport &fBow to &c%player%!'

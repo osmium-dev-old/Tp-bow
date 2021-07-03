@@ -1,0 +1,12 @@
+name: Teleport-Bow
+version: @version@
+main: com.tralamy.tpbow.Main
+api-version: 1.17
+authors: [ Tralamy ]
+description: A Teleport Bow that allows player to teleport.
+website: https://tralamy.com
+commands:
+  getTpBow:
+    description: Recive the Teleport Bow
+    usage: /<command>
+    aliases: [tpBow, tpbow, gettpbow]
